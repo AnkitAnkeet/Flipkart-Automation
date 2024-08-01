@@ -22,7 +22,10 @@ dependencies {
     testImplementation 'org.testng:testng:6.9.10'
 
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-    implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.23.0'
+
+   
+
 
 }
 
